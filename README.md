@@ -5,6 +5,6 @@ Advanced text mining techniques, such as the Naive Bayes classifier, ensure comp
 The integration of topic trends from STM with the semantic analysis of cited references within scholarly publication highlights novel developments, leading to informed and actionable policy recommendations. This study demonstrates the practical application of text mining and natural language processing in guiding policy formulation.
 By utilizing these advanced methods and extensive data, the framework aims to diminish the dominant role of experts, making the foresight process more data-driven and accessible. This approach underscores the importance of these tools in identifying, understanding, and steering technological advancements toward desired objectives.
 
-R-codes used in the thesis study is given in files.
+R-codes used in the thesis study are given in files.
 
 Keywords: Structural Topic Modeling, Word Embedding, Text Mining, Emerging Technology in Robotics, Technology Foresight
