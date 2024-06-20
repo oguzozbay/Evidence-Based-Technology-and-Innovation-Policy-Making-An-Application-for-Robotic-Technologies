@@ -6,4 +6,5 @@ The integration of topic trends from STM with the semantic analysis of cited ref
 By utilizing these advanced methods and extensive data, the framework aims to diminish the dominant role of experts, making the foresight process more data-driven and accessible. This approach underscores the importance of these tools in identifying, understanding, and steering technological advancements toward desired objectives.
 
 R-codes used in the thesis study is given in files.
+
 Keywords: Structural Topic Modeling, Word Embedding, Text Mining, Emerging Technology in Robotics, Technology Foresight
